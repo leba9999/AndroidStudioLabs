@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3-1</string>
+    <string name="buttonAdd">+</string>
+    <string name="buttonSubtract">-</string>
+    <string name="radioButtonDEC">DEC</string>
+    <string name="radioButtonBIN">BIN</string>
+    <string name="radioButtonHEX">HEX</string>
+    <string name="buttonReset">Reset</string>
+</resources>
