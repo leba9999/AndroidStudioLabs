@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">lab4_1</string>
+    <string name="name_message">Enter a name</string>
+    <string name="age_message">Enter a age</string>
+    <string name="button_send">Send</string>
+</resources>
